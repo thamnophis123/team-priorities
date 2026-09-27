@@ -644,3 +644,18 @@ tbody tr:last-child td {
     white-space: pre-wrap;
   }
 }
+
+blockquote.statute {
+  margin: 0.75rem 0 1rem;
+  padding: 0.6rem 1rem;
+  background: var(--white);
+  border-left: 4px solid var(--notice-border);
+}
+
+blockquote.statute p {
+  margin: 0;
+}
+
+.excerpt-note {
+  margin-bottom: 0.5rem;
+}

@@ -35,7 +35,7 @@ The header, navigation, and footer are repeated in each HTML file. There is no t
 
    Update both the `datetime` value (`YYYY-MM-DD`) and the visible text. If the update applies to the whole site, change that line on every page.
 3. Keep the page to sourced public law, bills, and documents. Do not add TEAM member names, or the names of legislators TEAM plans to contact.
-4. When draft amendment text is ready, replace the paragraph in the section headed **Sample amendment language**. Leave the heading, and keep the words “Sample amendment language” easy to find. The placeholder now says “Sample amendment language: coming soon.”
+4. When draft amendment text is ready, replace the paragraph in the section headed **Model legislation**. Leave the heading, and keep the words “Model legislation” easy to find. The placeholder now says “Model legislation: coming soon.”
 
 Print each page from the browser to check letter-paper layout. Navigation is hidden in print. Web addresses are printed after external links.
 
